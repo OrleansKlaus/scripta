@@ -1,0 +1,2 @@
+# scripta
+Startup scripta
